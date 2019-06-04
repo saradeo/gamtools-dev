@@ -195,7 +195,7 @@ def read_windows(filepath, chrom):
     return [windows, windows]
 
 
-def read_triangular(filepath):
+
     """Open Pi matrix output from SLICE.
 
     All matrix opening functions return first the
